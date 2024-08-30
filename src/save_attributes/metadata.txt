@@ -1,0 +1,8 @@
+[general]
+name=Save Atrributes
+description=This plugin svaes the attributes of the selected vector layer as a CSV file
+version=1.0
+qgisMinimumVersion=3.0
+author=Thiyaku
+email=thiyakuso4@gmail.com
+icon=logo.png
